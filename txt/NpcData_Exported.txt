@@ -1,0 +1,546 @@
+ID	名称$text_name_Name	Prefab路径	Prefab_Remote路径	Controller路径	Controller_Remote路径	默认阵营	JSON名称	JSON路径文件名	能否战斗	能否移动	能否发声	是否常驻	角色npc初见分组
+510	久岐忍	ART/Char/NPC/NPC_Avatar_Coop/NPC_Coop_Avatar_Girl_Sword_Shinobu/NPC_Coop_Avatar_Girl_Sword_Shinobu				2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove		1	1		65
+511	鹿野院平藏	ART/Char/NPC/NPC_Avatar_Coop/NPC_Coop_Avatar_Boy_Catalyst_Heizo/NPC_Coop_Avatar_Boy_Catalyst_Heizo				2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove_Heizo		1	1		59
+1047	神里绫人	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Male_Sword_Ayato				2001		ConfigNpc_Common_AnimatorMove		1	1		66
+1048	夜兰	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Lady_Bow_Yelan				2001		ConfigNpc_Common_AnimatorMove		1	1		60
+1049	久岐忍	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Sword_Shinobu				2001		ConfigNpc_Common_AnimatorMove		1	1		65
+1057	鹿野院平藏	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Boy_Catalyst_Heizo				2001		ConfigNpc_Common_AnimatorMove		1	1		59
+1700	安娜	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Female/NPC_Mengde_Female_Standard_Anna_1700				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+2000	阿望	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Wang_2000				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2061	沐宁	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Muning_2061				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2151	铁弘	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Tiehong_2151				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1	1	
+2152	老臭	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Fat_Stinky_2152				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2153	天奕	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Tianyi_2153				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1	1	
+2154	塔列辛	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Taliesin_2154				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2155	赞玛兰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2156	「安全距离爆破装置·信号指南」	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2157	尼古拉下士的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2158	合成	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+2159	工作手册	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2160	愚人众笔记	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2161	盗宝团书信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2162	盗宝团书信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2163	层岩巨渊爆破组通知	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2164	王平安	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Strong_Wangpingan_12326				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2165	老图	ART/Char/NPC/NPC_Liyue/NPC_Liyue_MuscleMan/NPC_Liyue_MuscleMan_Standard_Tu_2165				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1	1	
+2166	阿昊	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Strong_Hao_2166				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2167	嘉铭	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Jiaming_2167				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1	1	
+2168	尤骏	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Youjun_2168				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1	1	
+2169	彦博	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Yanbo_2169				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1	1	
+2170	通知！	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2171	遗落的文件	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2172	彦博的字条	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2173	没写完的补给日志	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2174	观察	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+2175	愚人众行动日志·其一	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2176	愚人众行动日志·其二	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2177	愚人众行动日志·其三	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2178	愚人众行动日志·其四	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2179	破损的日志	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2180	旧库房安置通知	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2181	《层岩巨渊矿产图鉴》	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2182	小心！	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2183	古老的石碑	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2184	矿工宿舍紧急通知	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2185	小心！	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2186	施工注意！	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2187	勘探队营地告示牌	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2188	告示牌	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2189	告示牌	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2190	告示牌	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2191	告示	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2192	通知	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2193	《层岩巨渊矿产报告》	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2194	《层岩巨渊「灵石」调查书》	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2195	注意！	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2196	合成	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+2197	瑾武	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Female/NPC_Liyue_Female_Strong_Jinwu_2616				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+2198	老图	ART/Char/NPC/NPC_Liyue/NPC_Liyue_MuscleMan/NPC_Liyue_MuscleMan_Standard_Tu_2198				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1	1	
+2199	阿昊	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Strong_Hao_2199				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2212	（test）矿工	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Strong_Miner_2212				2001		ConfigNpc_Common_AnimatorMove_Male_noActionAndHeadcontrol		1	1	1	
+2213	（test）矿工	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Strong_Miner_2213				2001		ConfigNpc_Common_AnimatorMove_Male_noActionAndHeadcontrol		1	1	1	
+2214	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2215	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2216	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2217	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2218	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2219	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2220	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2221	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2222	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2223	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2224	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2225	神秘的信笺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2226	唐无仇	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Doorhold_30086				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2227	安全告示	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1	1	
+2600	迪卢克	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Male_Claymore_DilucCostumeFlamme				2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove		1	1		16
+2601	菲谢尔	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Bow_FischlCostumeHighness				2001		ConfigNpc_Common_AnimatorMove		1	1		31
+2616	瑾武	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Female/NPC_Liyue_Female_Strong_Jinwu_2616				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+2617	克里托夫	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Clitopho_2617				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+2618	海迪夫	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Khedive_2618				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+3000	平山	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Hirayama_3000				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+3190	村田	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Female/NPC_Inazuma_Female_Standard_Murata_3190				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+3191	山城健太	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_YamashiroKenta_3191				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+3205	莉尔	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Female/NPC_Mengde_Female_Standard_Lil_3205				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+3206	吟游诗人B	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Male/NPC_Mengde_Male_Standard_PoetB_3206				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+3207	吟游诗人C	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Male/NPC_Mengde_Male_Fat_PoetC_3207				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+3227	阿倍良久	ART/Char/NPC/NPC_Others/NPC_Others_Enkanomiya_Shade/NPC_Others_Enkanomiya_Shade				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+3228	阿多尼斯	ART/Char/NPC/NPC_Others/NPC_Others_Enkanomiya_Shade/NPC_Others_Enkanomiya_Shade				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+3229	贺摩	ART/Char/NPC/NPC_Others/NPC_Others_Enkanomiya_Shade/NPC_Others_Enkanomiya_Shade				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+3230	乌帽子	ART/Char/NPC/NPC_Others/NPC_Others_Enkanomiya_Shade/NPC_Others_Enkanomiya_Shade				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+9008	夜兰	ART/Char/NPC/NPC_Avatar_Homeworld/NPC_Homeworld_Avatar_Lady_Bow_Yelan/NPC_Homeworld_Avatar_Lady_Bow_Yelan				2001		ConfigNpc_Common_AnimatorMove		1	1		
+9009	久岐忍	ART/Char/NPC/NPC_Avatar_Homeworld/NPC_Homeworld_Avatar_Girl_Sword_Shinobu/NPC_Homeworld_Avatar_Girl_Sword_Shinobu				2001		ConfigNpc_Common_AnimatorMove		1	1		
+9058	八重神子	ART/Char/NPC/NPC_Avatar_Homeworld/NPC_Homeworld_Avatar_Lady_Catalyst_Yae/NPC_Homeworld_Avatar_Lady_Catalyst_Yae				2001		ConfigNpc_Common_AnimatorMove		1	1		
+9059	鹿野院平藏	ART/Char/NPC/NPC_Avatar_Homeworld/NPC_Homeworld_Avatar_Boy_Catalyst_Heizo/NPC_Homeworld_Avatar_Boy_Catalyst_Heizo				2001		ConfigNpc_Common_AnimatorMove		1	1		
+9066	神里绫人	ART/Char/NPC/NPC_Avatar_Homeworld/NPC_Homeworld_Avatar_Male_Sword_Ayato/NPC_Homeworld_Avatar_Male_Sword_Ayato				2001		ConfigNpc_Common_AnimatorMove		1	1		
+12400	(test)检查神樱大树	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12401	(test)检查大社周边	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12402	？？？	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12403	知易的规划书	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12404		ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12405	哲夫	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Tokunaga_3036				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12406	一道	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Katayama_3127				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12407	遗迹猎者	ART/Char/NPC/NPC_Monster/NPC_Monster_Formathr_None				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol		1	1		
+12411	深见	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_Fukami_12411				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12412	博易	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Zhubian_12320				4001	ConfigNpc_Sensing_AnimatorMove_SneakRunNPC	ConfigNpc_Sensing_AnimatorMove_SneakRunNPC		1	1		
+12413	诗筠	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Jizhe_12319				2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female		1	1		
+12414	真	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12415	伸夫	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Santa_3171				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12416	健司	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Murakami_3172				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12417	？？？	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Fat_AikawaSusumu_3038				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12418	谜之声A	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Fat_AikawaSusumu_3038				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12419	谜之声B	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Fat_AikawaSusumu_3038				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12420	谜之声C	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Fat_AikawaSusumu_3038				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12421	谜之声D	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Fat_AikawaSusumu_3038				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12422	观察杯子	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12423	玥辉	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_Yuehui_12423				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12424	哈夫丹	ART/Char/NPC/NPC_Monster/NPC_Monster_Darkwraith_Strong_Wind_01				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12425	深渊司铎	ART/Char/NPC/NPC_Monster/NPC_Monster_Invoker_Deacon_Electric_01				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12426	开始拍照	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12427	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12428	观察茶杯	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12429	往日的黑蛇骑士	ART/Char/NPC/NPC_Monster/NPC_Monster_ForlornVessel_Strong_Lance_Water_01				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12430	PhatomSamurai	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_PhatomSamurai_12430 				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12431	幻影路人A	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Phatomnpca_12431				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12432	幻影路人B	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Phatomnpcb_12432				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12433	幻影路人C	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Phatomnpcc_12433				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12434	幻影路人D	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Phatomnpcd_12434				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12435	聪美	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Female/NPC_Inazuma_Female_Fat_Yamada_3108				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12436	气泡A	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_MikoshiGenjiro_3056				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12437	气泡B	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Shirai_3130				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12438	气泡C	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Female/NPC_Inazuma_Female_Standard_Kumi_3195				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12439	气泡D	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Female/NPC_Inazuma_Female_Standard_Ryoko_3078				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12440	气泡E	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Fat_Yabuki_3128				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12441	老章	ART/Char/NPC/NPC_Liyue/NPC_Liyue_MuscleMan/NPC_Liyue_MuscleMan_Standard_MasterZhang02_204801				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12442	(test)商人D	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Bolai_2013				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12443	(test)商人E	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_MerchantAdd2_12443				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12444	(test)商人F	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_MerchantAdd3_12444				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12445	松浦	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Matsuura_12445				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12446	菱田	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hishida_12446				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12447	尚	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hisashi_12447				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12448	秀夫	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hideo_12448				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12449	畑中	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hatanaka_12449				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12450	康明	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Yasuaki_12450				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12451	公告板	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12452	往日的黑蛇骑士	ART/Char/NPC/NPC_Monster/NPC_Monster_ForlornVessel_Strong_Lance_Water_01				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12453	往日的黑蛇骑士	ART/Char/NPC/NPC_Monster/NPC_Monster_ForlornVessel_Strong_Chargebow_Ice_01				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12454	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12455	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12456	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12457	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12458	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12459	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12460	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12461	哈夫丹	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Halfdan_12461				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12462	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12463	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12464	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12465	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12466	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12467	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12468	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12469	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12470	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12471	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_Twins2_01				2001		ConfigNpc_Common_AnimatorMove_noUsePushCollider_noHeadControl		1	1		
+12472	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12473	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12474	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12475	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12476	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12477	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12478	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12479	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12480	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12481	丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_02				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol_grassdis		1	1		
+12484	八木	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Yagi_12484				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12485	新之丞	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Shinnojou_12485				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12486	久保	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Kubo_12486				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12487	小百合	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Sayuri_12487				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12488	真理	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Mari_12488				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12489	桥本	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hashimoto_12489				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12490	征文告示	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12491	长濑	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Nagase_12491				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12492	冈林	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Okabayashi_12492				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12493	大猎犬	ART/Char/NPC/NPC_Monster/NPC_Monster_Hound_Kanis_Electric_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12494	魈	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12495	暴徒丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Brute_None_Axe_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12496	暴徒丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Brute_None_Axe_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12497	井手	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Ide_12497				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12498	知易	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Zhiyi_12498				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12499	明博	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Mingbo_12499				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12500	乾玮	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Qianwei_12500				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12501	商华	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Shanghua_12501				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12502	文渊	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Wenyuan_12502				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12503	拓真	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Takuma_12503				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12504	武沛	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Strong_Wupei_12504				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12505	尤苏波夫	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Yusupov_12505				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12506	隼人	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hayato_12506				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12507	知易	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Zhiyi_12498				4001	ConfigNpc_Sensing_AnimatorMove_SneakRunNPC	ConfigNpc_Sensing_AnimatorMove_SneakYelanZhiyiNPC		1	1		
+12508	麻美	ART/Char/NPC/NPC_Quest/NPC_Quest_Elder_Standard_Asami_12508				2001		ConfigNpc_Common_AnimatorMove_Elder_noheadcontrol		1	1		
+12509	奏太	ART/Char/NPC/NPC_Quest/NPC_Quest_Child_Standard_Sota_12509				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12510	由真	ART/Char/NPC/NPC_Quest/NPC_Quest_Child_Standard_Yuma_12510				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12511	瑛太	ART/Char/NPC/NPC_Quest/NPC_Quest_Child_Standard_Eita_12511				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12512	海斗	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Kairagi_02				2001		ConfigNpc_Common_AnimatorMove_Samurai		1	1		
+12513	纪香	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Fat_Norika_12513				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12514	往日的黑蛇骑士	ART/Char/NPC/NPC_Monster/NPC_Monster_ForlornVessel_Strong_Chargebow_Ice_01				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12515	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12516	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12517	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12518	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12519	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12520	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12521	秀夫	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hideo_12448				4001	ConfigNpc_Sensing_AnimatorMove_SneakHideoNPC	ConfigNpc_Sensing_AnimatorMove_SneakHideoNPC		1	1		
+12522	伯特兰	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Bertrand_12522				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12523	公告板	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12524	（test）龙套千岩军队长	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Strong_LongtaoCaption_12524				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12525	（test）龙套千岩军士兵1	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Longtao01_12525				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12526	（test）龙套千岩军士兵2	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Longtao02_12526				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12527	（test）龙套千岩军士兵3	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Longtao03_12527				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12528	公告板	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12529	公告板	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12530	阿幸	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Female/NPC_Inazuma_Female_Standard_Miyuki_3163				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12531	愚人众先遣队	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Anshun_12345				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12532	(test)妖狸	ART/Char/NPC/NPC_Animal/NPC_Animal_Inu_Tanuki_03				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1		
+12533	杞平	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Strong_Qiping_12533				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12534	礼安	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Strong_Lian_12534				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12536	阿晃	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12537	乾玮的规划书	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12538	明博的规划书	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12539	元太	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Genta_12539				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12540	阿守	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Mamoru_12540				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12541	浮舍	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12542	夜兰的太爷	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12543	罗盘的声音	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12544	阿丑	ART/Char/NPC/NPC_Others/NPC_Others_Itto_Ushio/NPC_Others_Itto_Ushio				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12545	（test）天领奉行士兵	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Ishizakistaff_12337				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12546	（test）天领奉行士兵	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Soilder142_30142				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12547	观察酒杯	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12548	七尾	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_YuRenZhong_1504				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12549	优午	ART/Char/NPC/NPC_Quest/NPC_Quest_Child_Standard_Yuugo_12549				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12550	鹰司千歌	ART/Char/NPC/NPC_Quest/NPC_Quest_Child_Standard_TakatsukasaChika_12550				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12551	轰大叔	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Todoroku_12551				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12552	悦	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Takami_12552				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12553	伊庭	ART/Char/NPC/NPC_Quest/NPC_Quest_Elder_Standard_Iba_12553				2001		ConfigNpc_Common_AnimatorMove_Elder		1	1		
+12574	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12575	触碰	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12577	伶一	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Reiichi_12577				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12578	久岐妙	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_KukiTae_12578				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12579	如意	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Ruyi_12579				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12588	广竹	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Guangzhu_12588				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12589	笼钓瓶一心	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_Isshin_12589				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12590	潮哥	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_Tao_12590				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12591	良平	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Ryouhei_12591				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12592	千晶	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Chiaki_12592				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12593	长门幸子	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Sachiko_12593				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12594	知易	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Zhiyi_12594				2001		ConfigNpc_Common_AnimatorMove_Male_NoActionWithTorch		1	1		
+12595	（test）海斗手下一号	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_03				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12596	（test）海斗手下二号	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_03				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12604	模样怪异的士兵	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Fat_SprayGun_Ice_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12605	佩尔西科夫	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Strong_Persikov_12605				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12606	观察装置	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12607	(test)开车通用	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12608	松鼠	ART/Char/NPC/NPC_Animal/NPC_Animal_Squirrel_01				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol		1	1		
+12609	奇妙的船	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12610	枫原久通	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12611	枫原景春	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_ShadowFather_12611				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12613	枫原万叶	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_ShadowSon_12613				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12614	枫原万叶	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12616	火炽之心	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12617	竹叔	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12618	吉祥	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12619	海伯	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12620	阿飞	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Child/NPC_Liyue_Child_Standard_LittleFei_2030				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12621	小蒙	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Child/NPC_Liyue_Child_Standard_LittleMeng_2031				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12622	璐璐	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Child/NPC_Liyue_Child_Standard_LittleLulu_2074				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+12623	冰封之心	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12624	查看	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12625	嘟嘟通讯仪	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12626	莱昂	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12627	菲谢尔的父亲	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12628	菲谢尔的母亲	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12629	阿诺德	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12630	神情严肃的夜鸦	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12631	眼神凛冽的夜鸦	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12632	浅野	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Asano_12632				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12633	野崎	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Taketani_12634				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12634	竹谷	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Nozaki_12633				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12635	村山	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Kairagi_01				2001		ConfigNpc_Common_AnimatorMove_Samurai		1	1		
+12636	天目优也	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_YuuyaWithWeapon_12636				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12637	(test)流浪武士A	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_03				2001		ConfigNpc_Common_AnimatorMove_Samurai_Ronin		1	1		
+12638	(test)流浪武士	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_03				2001		ConfigNpc_Common_AnimatorMove_Samurai_Ronin		1	1		
+12641	大雨	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Strong_Dayu_12641				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12644	愚人众士官	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Standard_Rifle_Fire_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12645	愚人众新兵	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Strong_Gloves_Wind_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12646	聆听	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12647	聆听	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12648	聆听	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12649	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12650	轰大叔	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Todoroku_12551				4001	ConfigNpc_Sensing_AnimatorMove_SneakTodorokuNPC	ConfigNpc_Sensing_AnimatorMove_SneakTodorokuNPC		1	1		
+12651	德田	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Tokuda_12055				4001	ConfigNpc_Sensing_AnimatorMove_SneakTokudaNPC	ConfigNpc_Sensing_AnimatorMove_SneakTokudaNPC		1	1		
+12663	幽夜菲谢尔	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Bow_FischlCostumeHighness				2001		ConfigNpc_Common_AnimatorMove		1	1		
+12667	幕府军人	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_MuscleMan/NPC_Inazuma_MuscleMan_Standard_EbinaGonshiro_3076				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12668	幕府足轻	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Watanabe_3059				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12669	老仆	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Elder/NPC_Inazuma_Elder_Standard_IkedaSoshiro_3055				2001		ConfigNpc_Common_AnimatorMove_Elder		1	1		
+12670	水手	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Heihachi_3013				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12671	野伏众	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_02				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+12672	友人	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12673	船夫	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Watanabe_3059				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12674	旁白	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12675	？？？	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+12676	辛焱的母亲	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Female/NPC_Liyue_Female_Standard_Chenxiang_2027				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+12677	辛焱的父亲	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_ChangtheNinth_1624				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12678	码头的工人	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_ChangtheNinth_1624				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+12680	（test）野伏众	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_02				2001		ConfigNpc_Common_AnimatorMove_Samurai_Ronin		1	1		
+12681	(test)野伏众	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_02				2001		ConfigNpc_Common_AnimatorMove_Samurai_Ronin		1	1		
+12682	观察宣传单	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12687	笼钓瓶一心	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_IsshinWithWeapon_12589				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+12715	汲水	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12716	一张纸条	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+12718	梦境海螺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12721	观察装置	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12722	观察装置	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12732	查看	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+12758	天目优也	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_Yuuya_12636				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+20000	（test）阿志B	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_UncleTian_2003				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20006	志琼	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Zhiqiong_20006				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20220	盗宝鼬训练手册	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20398	test千岩军忠告1	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20399	test千岩军忠告2	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20523	志琼	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Zhiqiong_20006				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20524	拍摄	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+20525	愚人众的日志本	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20526	唐无仇	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_InvincibleTang_20526				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20527	彦博	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Yanbo_20527				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20528	怪异的石碑	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20529	拍摄	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+20530	拍摄	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+20531	拍摄	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+20532	拍摄	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+20533	拍摄	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+20534	老何	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_UncleHe_20534				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+20535	卡塔琳娜	ART/Char/NPC/NPC_Monster/NPC_Monster_Fatuus_Summoner_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20536	安东	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Strong_Gloves_Wind_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20537	戚定	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Qiding_20537				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20538	戚楠	ART/Char/NPC/NPC_Quest/NPC_Quest_Child_Standard_Qinan_20538				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+20539	日志的残片	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20540	日志的残片	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20541	日志的残片	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20542	可疑的物品	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20543	调查大炮	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20544	尼古拉下士的日志残片	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20545	纪念石	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20546	石碑	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20547	test盗宝鼬训练笔记	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20548	小柳	ART/Char/NPC/NPC_Others/NPC_Others_Enkanomiya_Shade/NPC_Others_Enkanomiya_Shade				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20549	达尼拉	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Standard_Staff_Rock_02				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20550	拉多米尔	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Fat_SprayGun_Water_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20551	提莫尔	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Standard_Rifle_Fire_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20552	自称「唐无仇」者	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Doorhold_30086				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20553	老何	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_UncleHe_20553				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+20554	赵铁牛	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_SteelHornZhao_20554				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20555	陈娇花	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_TenderAsSilkChen_20555				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+20556	？？？	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Slippie_30087				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20557	尼古拉下士的笔记	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20558	潦草的笔记	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20559	千岩军兵士	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Hongyu_2064				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1		
+20560	千岩军兵士	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Yicheng_2057				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1		
+20561	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20562	福本	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Fat_Fukumoto_20562				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+20563	{NICKNAME}	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Female/NPC_Inazuma_Female_Standard_Sumi_3125				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20564	(test)	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Kuroda_3029				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20565	鲸井小弟	ART/Char/NPC/NPC_Quest/NPC_Quest_Child_Standard_Kurajikun_20284				2001		ConfigNpc_Common_AnimatorMove_Child		1	1		
+20566	平泉	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Hiraizumi_20566				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20567	木村	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Kimura_20567				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20568	石田	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Ishida_20568				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+20569	竹内	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Takeuchi_20569				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20570	阳斗	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Inoue_3025				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20571	(test)天领奉行士兵	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Uesugi_3020				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20572	康拉德	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Konrad_20572				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20573	玲花	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Reika_20573				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20574	顺平	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Jyunpei_20574				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20575	清刚	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Seikou_20575				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20580	瑾武	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Female/NPC_Liyue_Female_Strong_Jinwu_2616				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20581	业余炼金术士的日志	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20582	范火头的配方	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20583	拆封的书信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20584	注意！！	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20585	赵铁牛的账本	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20586	纸条	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20587	水没遗迹钟声	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20588	下沉遗迹钟声	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20609	陈旧的笔记	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20610	陈旧的笔记	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20611	刻痕	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20612	test伪装的千岩军1	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_ThoarderNoWeapon02_20612				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20613	test伪装的千岩军2	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_ThoarderNoWeapon01_20613				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+20614	豆助	ART/Char/NPC/NPC_Animal/NPC_Animal_Inu_Tanuki_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol_grassdis		1	1		
+20615	留言	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20616	留言	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20617	留言	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20618	夜鸦团长	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Bow_Fischl				2001		ConfigNpc_Common_AnimatorMove		1	1	1	
+20619	留言	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20620	阿加菲娅	ART/Char/NPC/NPC_Monster/NPC_Monster_Fatuus_Maiden_Water_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+20621	扎哈尔	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Fat_SprayGun_Water_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+20622	叶夫卡	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Strong_GreatHammer_Electric_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+20623	雅科夫	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Standard_Staff_Rock_02				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+20624	泽维尔	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Male/NPC_Inazuma_Male_Standard_Xavier_3162				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20625	笹野	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Sasano_20625				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20626	小春	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Koharu_20626				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20627	留言	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20629	辉山厅警示牌	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20630	辉山厅警示牌	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20631	辉山厅警示牌	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20634	山田一二三	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Kairagi_02				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20635	山本	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_02				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20636	田中	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_03				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+20637	陈旧的笔记	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20638	(test)无名冒险家的笔记·晴	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20639	(test)无名冒险家的笔记·风	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20640	(test)开启	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20641	柴助	ART/Char/NPC/NPC_Animal/NPC_Animal_Inu_Tanuki_04				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol_grassdis		1	1		
+20642	若山小十郎	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_WakayamaKojuurou_20642				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1		
+20654	夜鸦船长	ART/Char/NPC/NPC_Animal/NPC_Animal_Fischl_Crow				2001		ConfigNpc_Common_AnimatorMove		1	1		
+20657	加尔恰	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Garcia_20657				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20658	路通	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Lutong_20658				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20718	若山敬助	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Sasano_20625				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20719	矢野町子	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Koharu_20626				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+20720	黑谷势至丸	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Boy_Sword_PlayerBoy				2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove_Male		1	1		
+20721	黑谷势至丸	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Sword_PlayerGirl				2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove_Female		1	1		
+20728	若山小十郎	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_WakayamaKojuurou_20728				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+20729	「大肉丸」	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+20734	更改盆景布局	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20737	开始拍照	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+20763	黑谷势至丸	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20781	梦境海螺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20782	梦境海螺	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20814	阿诺德	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20815	暮夜剧团团长	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+20853	阅读	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20854	阅读	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+20855	阅读	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30000	阿祇	ART/Char/NPC/NPC_Inazuma/NPC_Inazuma_Female/NPC_Inazuma_Female_Standard_Tsumi_30000				2001		ConfigNpc_Common_AnimatorMove_Miko		1	1		
+30104	上野	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Ueno_30104				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30105		ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Teppei_12070				2001		ConfigNpc_Common_AnimatorMove_Male_noActionAndHeadcontrol		1			
+30106	榎本	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Enomoto_30106				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30107	今泉	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Imaizumi_30107				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30108	矢部	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Yabe_30108				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1		
+30109	盗宝团成员	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_HuangMaZi2_10254				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30111	盗宝团成员	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Caijing_10317				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30112	卢卡	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Male/NPC_Mengde_Male_Standard_Luka_30112				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30113	于尔根	ART/Char/NPC/NPC_Mengde/NPC_Mengde_MuscleMan/NPC_Mengde_MuscleMan_Standard_Jurgen_30113				2001		ConfigNpc_Common_AnimatorMove_MuscleMan_noheadcontrol		1	1	1	
+30114	查尔斯	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Male/NPC_Mengde_Male_Standard_Charles_1465				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30115	小乌维	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Male/NPC_Mengde_Male_Standard_UweJr_30115				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol		1	1	1	
+30116	约纳斯	ART/Char/NPC/NPC_Mengde/NPC_Mengde_Male/NPC_Mengde_Male_Standard_Jonas_30116				2001		ConfigNpc_Common_AnimatorMove_Male_noheadcontrol		1	1	1	
+30117		ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_SoliderNopole_12193				2001		ConfigNpc_Common_AnimatorMove_Male_noActionAndHeadcontrol		1	1		
+30134	（test）盗宝团胖	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_QiqiNPC2_10340				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30135	(test）盗宝团电	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Feitheflyer_10414				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30136	（test）盗宝团冰	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_FishingDaobaotuanLeader_12164				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30137	千岩军守卫	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Fengyan_2071				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30138	千岩军守卫	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Fengyan_2071				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30139	小野寺	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Onodera_30139				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30140	终末番忍者	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_NinjaA_30140				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30141	浅川	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Asakawa_30141				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30142	天领奉行士兵	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Soilder142_30142				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30143	神里家主	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Kamisato_30143				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30144	枫原义庆	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_KaedeharaYoshinori_30144				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30145	枫原义庆-无斗笠版	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_YoshinoriA_30145				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30146	社奉行武士A	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_ShabugyousoilderA_30146				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30147	社奉行武士B	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_ShabugyousoilderA_30147				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30148	社奉行武士C	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_ShabugyousoilderA_30148				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+30149	社奉行武士D	ART/Char/NPC/NPC_Quest/NPC_Quest_MuscleMan_Standard_ShabugyousoilderA_30149				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+30150	勘解由小路健三郎	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Kadenokouji_30150				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30151	观察黑主画像	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+30152	帕特里克	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_JinLigustral_30152				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30153	宏朗	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Honglang_30153				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30154	璃月嘉宾A	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_LiyueA_30154				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30155	璃月嘉宾B	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_LiyueB_30155				2001		ConfigNpc_Common_AnimatorMove_Female		1	1		
+30156	阳太	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Youta_30156				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30157	秋人	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Takeshi_30157				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30158	茅葺一庆小说样稿	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+30159	娜扎法琳	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Nazafarin_30159				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+30160	朝雾	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Asagiri_30160				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+30162	告示板	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+30163	梨香	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Rika_30163				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+30164	高坂	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Kousaka_30164				2001		ConfigNpc_Common_AnimatorMove_Male_NoAction		1	1	1	
+30165	志穗	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Shiho_30165				2001		ConfigNpc_Common_AnimatorMove_Female_noheadcontrol		1	1	1	
+30166	美羽	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Miu_30166				2001		ConfigNpc_Common_AnimatorMove_Female_noheadcontrol		1	1	1	
+30167	安彦太郎	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Hatamoto				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1	1	
+30168	大久保三左卫门	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Ronin_02				2001		ConfigNpc_Common_AnimatorMove_Male_noActionAndHeadcontrol		1	1	1	
+30169	三岛道世	ART/Char/NPC/NPC_Monster/NPC_Monster_Samurai_Kairagi_01				2001		ConfigNpc_Common_AnimatorMove_Samurai		1	1	1	
+30170	太郎丸	ART/Char/NPC/NPC_Animal/NPC_Animal_Inu_Shihandai_03				2001		ConfigNpc_Common_AnimatorMove_Taromaru		1	1	1	
+30171	柴染	ART/Char/NPC/NPC_Quest/NPC_Quest_Female_Standard_Fushizome_30171				2001		ConfigNpc_Common_AnimatorMove_Female		1	1	1	
+30172	大伴	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Bard01_30172				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30173	莱内	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Bard02_30173				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30174	同人摊位公告板	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+30175	观察伤兵	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC						
+30176	翠光像	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+30177	葵之翁像	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+30178	赤人像	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+30179	墨染像	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+30180	黑主像	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+30181	胡塞尼	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Strong_Housani_30049				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30182	海迪夫	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Standard_Clitopho_2617				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30183	阿昊	ART/Char/NPC/NPC_Liyue/NPC_Liyue_Male/NPC_Liyue_Male_Strong_Hao_2199				2001		ConfigNpc_Common_AnimatorMove_Male		1	1		
+30184	老图	ART/Char/NPC/NPC_Liyue/NPC_Liyue_MuscleMan/NPC_Liyue_MuscleMan_Standard_Tu_2165				2001		ConfigNpc_Common_AnimatorMove_MuscleMan		1	1		
+30185	久濑	ART/Char/NPC/NPC_Others/NPC_Others_Enkanomiya_Shade/NPC_Others_Enkanomiya_Shade				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+30186	(test)发出声响的猫	ART/Char/NPC/NPC_Animal/NPC_Animal_Cat_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+30187	伯特兰	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Bertrand_12522				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30188	元太	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Genta_12277				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30189	阿守	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_Mamoru_12278				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30190	阿晃	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Fat_Akira_12276				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30191	借来的广告板	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC					1	
+30192	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30193	整理信件	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30194	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30195	字迹华丽的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30196	字迹华丽的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30197	字迹华丽的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30198	「致代理团长」的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30199	「致法尔伽团长」的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30200	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30201	「致艾莉丝女士」的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30202	「致阿贝多先生」的信	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30203	枫原万叶	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Boy_Sword_Kazuha				2001		ConfigNpc_Common_AnimatorMove		1	1	1	47
+30204	辛焱	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Claymore_Xinyan				2001		ConfigNpc_Common_AnimatorMove_Xinyan		1	1		44
+30205	菲谢尔	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Bow_Fischl				2001		ConfigNpc_Common_AnimatorMove		1	1		31
+30206	奥兹	ART/Char/NPC/NPC_Animal/NPC_Animal_Fischl_Crow				2001		ConfigNpc_Common_AnimatorMove_Animal_Fischl_Crow		1	1		
+30207	莫娜	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Catalyst_MonaCostumeWic				2001		ConfigNpc_Common_AnimatorMove_Female_Mona		1	1		41
+30208	温迪	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Boy_Bow_Venti				2001		ConfigNpc_Common_AnimatorMove_Venti		1	1		22
+30209	聆听	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC	ConfigNpc_ReadableNPC			1		
+30210	早柚	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1		
+30211	《名冒险家系列》书封	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC				1	1	
+30217	菲利斯·尤格	ART/Char/NPC/NPC_Quest/NPC_Quest_Male_Standard_PhileasYogg_30217				2001		ConfigNpc_Common_AnimatorMove_Male		1	1	1	
+30218	（test）深渊法师	ART/Char/NPC/NPC_Monster/NPC_Monster_Abyss_Ice_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+30219	（test）丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+30220	（test）丘丘人	ART/Char/NPC/NPC_Monster/NPC_Monster_Hili_None_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1		
+30221	调查	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30222	残存的记录·一	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30223	残存的记录·二	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30224	残存的记录·三	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30227	阿加菲娅	ART/Char/NPC/NPC_Monster/NPC_Monster_Fatuus_Maiden_Water_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+30228	扎哈尔	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Fat_SprayGun_Water_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+30229	叶夫卡	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Strong_GreatHammer_Electric_01				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+30230	雅科夫	ART/Char/NPC/NPC_Monster/NPC_Monster_Skirmisher_Male_Standard_Staff_Rock_02				2001		ConfigNpc_Common_AnimatorMove_Child_noheadcontrol		1	1	1	
+30231	菲谢尔	ART/Char/NPC/NPC_Avatar/NPC_Avatar_Girl_Bow_FischlCostumeHighness				2001		ConfigNpc_Common_AnimatorMove		1	1		31
+30232	（test）激活	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		
+30242	阅读信件	ART/Char/NPC/NPC_Others/NPC_Others_Readable_Invisible				2001	ReadableNPC			1	1		

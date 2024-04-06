@@ -1,0 +1,56 @@
+{
+//------------------------------------小道具大集结------------------------------------//
+    
+    "ActivityAbility_CatchAnimal_Shoot":  //小动物捕获器
+    {
+        "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_WIDGET",
+        "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+        "targetAbilities": 
+        [
+            {
+                "abilityID": "ActivityAbility_CatchAnimal_Shoot",
+                "abilityName": "ActivityAbility_CatchAnimal_Shoot",
+            },
+        ],
+    },
+
+    "ActivityAbility_CatchAnimal_Shoot_Test":  //小道具shareCD测试数据
+    {
+        "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_WIDGET",
+        "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+        "targetAbilities": 
+        [
+            {
+                "abilityID": "ActivityAbility_CatchAnimal_Shoot_Test",
+                "abilityName": "ActivityAbility_CatchAnimal_Shoot_Test",
+            },
+        ],
+    },
+
+    "ActivityAbility_CatchAnimal_DogGame":  //小动物特殊玩法之狗子活动
+    {
+        "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_WIDGET",
+        "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+        "targetAbilities": 
+        [
+            {
+                "abilityID": "ActivityAbility_CatchAnimal_Shoot_DogGame",
+                "abilityName": "ActivityAbility_CatchAnimal_Shoot_DogGame",
+            },
+        ],
+    },
+
+    "ActivityAbility_Gacha_Furniture":  //家具扭蛋活动小道具
+    {
+        "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_WIDGET",
+        "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+        "targetAbilities": 
+        [
+            {
+                "abilityID": "ActivityAbility_Gacha_Furniture_Sync",
+                "abilityName": "ActivityAbility_Gacha_Furniture_Sync",
+            },
+        ],
+    },
+
+}

@@ -1,0 +1,42 @@
+{
+  "MichiaeMatsuri": 
+  {
+    "$type": "ConfigRegionalPlayMichiaeMatsuri",
+    "playType": "MichiaeMatsuri",
+    "bindScene": 7,
+    "offeringID": 4,  //绑定的供奉ID
+    "maxDarkPressureValue": 100,
+    "abilityGroupNameList": ["DynamicAbility_MichiaeMatsuri_Pressure"],
+    "isTeam": true,
+    "darkPressureSGV":"SGV_MichiaeMatsuri_DarkPressure",
+    "crystalEnergySGV": "SGV_MichiaeMatsuri_CrystalEnergy",
+    "crystalLevelSGV": "SGV_MichiaeMatsuri_CrystalLevel",
+    "varList": 
+    [
+      {
+         "varType": "MichiaeMatsuriDarkPressure"
+      }, 
+      {
+         "varType": "MichiaeMatsuriCrystalEnergy",
+         "initValue": 300,
+      }
+    ]
+  }
+  ,  
+  "LightStone": 
+  {
+    "$type": "ConfigRegionalPlayLightStone",
+    "playType": "LightStone",
+    "bindScene": 6,
+    "energySGV":"SGV_Light_Stone_Energy",
+    "levelSGV":"SGV_Light_Stone_Level",
+    "abilityGroupNameList": ["DynamicAbility_LightStone_TriggerLine"],
+    "isTeam": true,
+    "varList": 
+    [   
+      {   
+         "varType": "LightStoneEnergy"
+      }   
+    ]   
+  }
+}

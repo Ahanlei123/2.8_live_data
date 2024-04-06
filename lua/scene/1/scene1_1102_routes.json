@@ -1,0 +1,139 @@
+{
+  "sceneId": 1,
+  "routes": [
+    {
+      "localId": 110200001,
+      "name": "Route_JumpTest1",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "arriveRange": 2.0,
+      "points": [
+        {
+          "pos": {
+            "x": 1287.568,
+            "y": 330.0928,
+            "z": -1928.478
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0,
+          "hasReachEvent": true
+        },
+        {
+          "pos": {
+            "x": 1287.568,
+            "y": 330.0928,
+            "z": -1925.49792
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0,
+          "hasReachEvent": true
+        }
+      ]
+    },
+    {
+      "localId": 110200005,
+      "name": "Platform_110200005",
+      "type": "Loop",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "arriveRange": 2.0,
+      "points": [
+        {
+          "pos": {
+            "x": 1368.84534,
+            "y": 324.6969,
+            "z": -1983.05029
+          },
+          "waitTime": 2.0,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": 1368.74414,
+            "y": 331.629,
+            "z": -1981.64612
+          },
+          "waitTime": 2.0,
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 110200007,
+      "name": "Platform_110200007",
+      "type": "Reciprocate",
+      "rotType": "ROT_ROUND",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "arriveRange": 2.0,
+      "points": [
+        {
+          "pos": {
+            "x": 1984.19153,
+            "y": 196.6549,
+            "z": -1303.639
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0,
+          "hasReachEvent": true,
+          "rotRoundReachDir": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          },
+          "rotRoundReachRounds": 0,
+          "rotRoundLeaveDir": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          },
+          "rotRoundWaitRounds": 0
+        },
+        {
+          "pos": {
+            "x": 1974.90991,
+            "y": 196.016129,
+            "z": -1298.37769
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0,
+          "hasReachEvent": true,
+          "rotRoundReachDir": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "rotRoundReachRounds": 0,
+          "rotRoundLeaveDir": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "rotRoundWaitRounds": 0
+        },
+        {
+          "pos": {
+            "x": 1981.2782,
+            "y": 196.602539,
+            "z": -1285.93909
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0,
+          "hasReachEvent": true,
+          "rotRoundReachDir": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "rotRoundReachRounds": 0,
+          "rotRoundLeaveDir": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "rotRoundWaitRounds": 0
+        }
+      ]
+    }
+  ]
+}

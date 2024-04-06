@@ -1,0 +1,349 @@
+{
+  "DynamicAbility_Activity_Sumo_Fever_LV1": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Fever_LV1",
+        "abilityName": "Activity_Sumo_Fever_LV1"
+      }
+    ]
+  },
+  "DynamicAbility_Activity_Sumo_Fever_LV2": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Fever_LV2",
+        "abilityName": "Activity_Sumo_Fever_LV2"
+      }
+    ]
+  },
+  "DynamicAbility_Activity_Sumo_Fever_LV3": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Fever_LV3",
+        "abilityName": "Activity_Sumo_Fever_LV3"
+      }
+    ]
+  },
+  "DynamicAbility_Activity_Sumo_Fever_LV4": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Fever_LV4",
+        "abilityName": "Activity_Sumo_Fever_LV4"
+      }
+    ]
+  },
+  "DynamicAbility_Activity_Sumo_Fever_LV5": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Fever_LV5",
+        "abilityName": "Activity_Sumo_Fever_LV5"
+      }
+    ]
+  },
+
+  "DynamicAbility_Activity_Sumo_Fever": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Fever",
+        "abilityName": "Activity_Sumo_Fever"
+      },
+    ]
+  },
+
+  "Ability_Activity_Sumo_NormalAttack": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_NormalAttack",
+        "abilityName": "Activity_Sumo_NormalAttack"
+      }
+    ]
+  },
+
+  "Ability_Activity_Sumo_ExtraAttack": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ExtraAttack",
+        "abilityName": "Activity_Sumo_ExtraAttack"
+      }
+    ]
+  },
+
+  "Ability_Activity_Sumo_FallingDamage": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_FallingDamage",
+        "abilityName": "Activity_Sumo_FallingDamage"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_GenerateBall_AfterElementalArt": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_GenerateBall_AfterElementalArt",
+        "abilityName": "Activity_Sumo_GenerateBall_AfterElementalArt"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_Elemental_Burst": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Elemental_Burst",
+        "abilityName": "Activity_Sumo_Elemental_Burst"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_ShieldBeingHitDoAttack": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ShieldBeingHitDoAttack",
+        "abilityName": "Activity_Sumo_ShieldBeingHitDoAttack"
+      }
+    ]
+  }, 
+  "Ability_Activity_Sumo_TriggerAoe_AfterHealUp": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_TriggerAoe_AfterHealUp",
+        "abilityName": "Activity_Sumo_TriggerAoe_AfterHealUp"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_Fever_Faster": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Fever_Faster",
+        "abilityName": "Activity_Sumo_Fever_Faster"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_ElemMasteryDelta": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ElemMasteryDelta",
+        "abilityName": "Activity_Sumo_ElemMasteryDelta"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_ElementAddHurt_Fire": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ElementAddHurt_Fire",
+        "abilityName": "Activity_Sumo_ElementAddHurt_Fire"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_ElementAddHurt_Ice": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ElementAddHurt_Ice",
+        "abilityName": "Activity_Sumo_ElementAddHurt_Ice"
+      }
+    ]
+  }, 
+  "Ability_Activity_Sumo_ElementAddHurt_Elec": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ElementAddHurt_Elec",
+        "abilityName": "Activity_Sumo_ElementAddHurt_Elec"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_ElementAddHurt_Rock": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ElementAddHurt_Rock",
+        "abilityName": "Activity_Sumo_ElementAddHurt_Rock"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_ElementAddHurt_Water": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ElementAddHurt_Water",
+        "abilityName": "Activity_Sumo_ElementAddHurt_Water"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_ElementAddHurt_Wind": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ElementAddHurt_Wind",
+        "abilityName": "Activity_Sumo_ElementAddHurt_Wind"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_PhysicalAddHurt": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_PhysicalAddHurt",
+        "abilityName": "Activity_Sumo_PhysicalAddHurt"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_CriticalHurtDelta": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_CriticalHurtDelta",
+        "abilityName": "Activity_Sumo_CriticalHurtDelta"
+      }
+    ]
+  },
+  "Ability_Activity_Sumo_AtkUp": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_AtkUp",
+        "abilityName": "Activity_Sumo_AtkUp"
+      }
+    ]
+  }, 
+  "Ability_Activity_Sumo_DamageDown": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_DamageDown",
+        "abilityName": "Activity_Sumo_DamageDown"
+      }
+    ]
+  },
+
+  //二期新增AbilityGroup
+  "Activity_Sumo_ArtAndBurst_DamageUp": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ArtAndBurst_DamageUp",
+        "abilityName": "Activity_Sumo_ArtAndBurst_DamageUp"
+      }
+    ]
+  },
+  "Activity_Sumo_ExtraAttack_RandomDamage": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ExtraAttack_RandomDamage",
+        "abilityName": "Activity_Sumo_ExtraAttack_RandomDamage"
+      }
+    ]
+  },
+  "Activity_Sumo_ReviveEnergy": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_ReviveEnergy",
+        "abilityName": "Activity_Sumo_ReviveEnergy"
+      }
+    ]
+  },
+  "Activity_Sumo_WindZone": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_WindZone",
+        "abilityName": "Activity_Sumo_WindZone"
+      }
+    ]
+  },
+  "Activity_Sumo_WaterZone": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_WaterZone",
+        "abilityName": "Activity_Sumo_WaterZone"
+      }
+    ]
+  },
+  "Activity_Sumo_Cannon": 
+  {
+    "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_GALLERY",
+    "abilityGroupTargetType": "ABILITY_GROUP_TARGET_TEAM",
+    "targetAbilities": [
+      {
+        "abilityID": "Activity_Sumo_Cannon",
+        "abilityName": "Activity_Sumo_Cannon"
+      }
+    ]
+  },
+}

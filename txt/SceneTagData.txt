@@ -1,0 +1,133 @@
+ID	SceneTagName	场景ID	默认是否生效	是否不走loading	条件1类型	条件1参数1	条件1参数2	条件2类型	条件2参数1	条件2参数2
+101	Hdj	3			1	1001				
+102	JadeChamber	3	1		2	10008	1			
+103	JadeChamber	3			2	10009	1			
+104	Hdj	3			4	2002		5	1110311	
+105	Fhj	3			4	2003		5	39604	
+106	SummerTime	4			4	2005		5	4001103	
+107	KlinSeal	3	1							
+108	SummerTime_High	4								
+109	SummerTime_Low	4								
+111	Ruinup	3								
+112	QLFightPlatform	3								
+113	Lmboss_01	3	1							
+114	FlowerZone_01	3								
+115	FlowerZone_02	3								
+116	Lmboss_02	3								
+117	LYDS_01	3	1							
+118	LYDS_02	3								
+119	Zyj	3								
+120	AbyssalNight	5		1						
+121	AbyssalIsle	5								
+122	AbyssalEvent	5								
+123	AbyssalEventNight	5								
+124	WinterCamp	3			1	2009				
+125	Hguan01	3	1							
+126	Hguan02	3								
+127	Hguan03	3								
+128	RBQyg_01	3		1						
+129	RBQyg_02	3		1						
+130	RBQyg_03	3		1						
+131	RBQyg_04	3		1						
+133	RBQyg_Stage	3		1						
+134	TongqueTemple_Old	3	1							
+135	TongqueTemple_New	3								
+136	Aby_LightOFF	7	1							
+137	AbyIsle_Const	7	1							
+138	AbyIsle_LightOFF	7	1							
+139	HZD01	3	1							
+140	HZD02	3								
+141	CYJY_Phase1_ON	3	1	1						
+142	CYJY_Phase1_OFF	3		1						
+143	CYJY_Phase2_ON	6	1	1						
+144	CYJY_Phase2_OFF	6		1						
+145	CYJY_Phase3_ON	6	1	1						
+146	CYJY_Phase3_OFF	6		1						
+147	Irodori	3								
+148	Aby_Event	7	1							
+149	SHOPYamashiroKenta	3								
+150	CYJY_Phase4ON	6		1						
+151	CYJY_Phase4OFF	6		1						
+1001	Combine_Lyg	3								
+1002	Combine_Mdc	3								
+1003	Aby_LightOFF	5								
+1004	Aby_LightON	5								
+1005	AbyIsle_Const	5								
+1006	AbyIsle_LightON	5								
+1007	AbyIsle_LightOFF	5								
+1009	AbyIsle_NotEvent	5								
+1010	AbyIsle_NotEventLightOFF	5								
+1011	Combine_RBQyg	3		1						
+1012	DI_WW01	9	1							
+1013	DI_WW02	9								
+1014	DI_PP01	9	1							
+1015	DI_PP02	9								
+1016	DI_PP03	9								
+1017	DI_SS01	9	1							
+1018	DI_SS02	9								
+1019	DI_SS03	9								
+1020	DI_BD01	9	1							
+1021	DI_BDLM	9		1						
+1022	DI_BDRM	9		1						
+1023	DI_BDLI	9		1						
+1024	DI_BDRI	9		1						
+1025	DI_BDLL	9		1						
+1026	DI_BDRL	9		1						
+1027	Combine_Irodori	3								
+1028	Aby_NotEvent	5								
+1029	Aby_NotEventLightOFF	5								
+1030	Combine_QldFight	3								
+1031	MichiaeMatsuri_WQ_Default5	5	1							
+1032	MichiaeMatsuri_WQ_Default7	7		1						
+1033	MichiaeMatsuri_WQ_SideA	7		1						
+1034	MichiaeMatsuri_WQ_SideB	7		1						
+1035	DreamIsland_All_WithoutAnyChange	9								
+1036	DreamIsland_-1_-1_BaseTerrain	9								
+1037	DreamIsland_0_-1_BaseTerrain	9								
+1038	DreamIsland_0_0_BaseTerrain	9								
+1039	DreamIsland_-1_0_BaseTerrain	9								
+1040	DreamIsland_-1_-1_BaseGrass	9								
+1041	DreamIsland_0_-1_BaseGrass	9								
+1042	DreamIsland_0_0_BaseGrass	9								
+1043	DreamIsland_-1_0_BaseGrass	9								
+1046	DI_Fischl01	20139	1							
+1047	DI_Fischl02	20139								
+1048	DI_Xinyan01	20133	1							
+1049	DI_Xinyan02	20133								
+1050	DI_Kazuha01	20142	1	1						
+1051	DI_Kazuha02	20142	1	1						
+1052	DI_Kazuha03	20142		1						
+1053	DI_Kazuha04	20142		1						
+1054	DI_Kazuha05	20142		1						
+1055	DI_Kazuha06	20142		1						
+1056	DI_Kazuha07	20142		1						
+1057	DI_Kazuha08	20142		1						
+1058	DI_Kazuha09	20142		1						
+1059	DI_Kazuha10	20142		1						
+1060	DI_SS04	9								
+1061	CYJY_Twins2_Block_ON	6	1	1						
+1062	CYJY_Twins2_Block_OFF	6		1						
+1063	CYJY_Twins1_OFF	6	1	1						
+1064	CYJY_Twins1_ON	6		1						
+1065	DI_Mona01	20136	1	1						
+1066	DI_Mona02	20136		1						
+1067	DI_Mona03	20136		1						
+1068	Combine_SHOPYamashiroKenta	3								
+1069	DI_Kazuha31	20140	1	1						
+1070	DI_Kazuha32	20140		1						
+1071	DI_Kazuha33	20140		1						
+1072	DI_Kazuha21	20135	1	1						
+1073	DI_Kazuha22	20135	1	1						
+1074	DI_Mona04	20136		1						
+1075	DI_Mona05	20136		1						
+1076	DI_SkiffWQ	9		1						
+1077	DI_BDMM	9		1						
+1078	DI_BDII	9		1						
+1079	DI_BDIM	9		1						
+1080	DI_BDMI	9		1						
+1081	DI_BDYY	9		1						
+1082	DI_BDMY	9		1						
+1083	DI_BDYM	9		1						
+1084	DI_BDIY	9		1						
+1085	DI_BDYI	9		1						
+1086	DI_Kazuha35	20140		1						
